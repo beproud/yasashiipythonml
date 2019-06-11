@@ -24,3 +24,8 @@
 * Chapter 6: データの前処理を学ぼう
 * Chapter 7: 回帰分析をしよう
 * Chapter 8: 機械学習の次のステップ 
+
+## 参考
+
+* 前作[いちばんやさしいPythonの教本](http://book.impress.co.jp/books/1116101151)
+* サンプルコード: https://github.com/beproud/yasashiipython
